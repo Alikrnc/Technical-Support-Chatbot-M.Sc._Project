@@ -1,2 +1,3 @@
 # Technical-Support-Chatbot-M.Sc._Project
-Choice Based Customer Support Chatbot
+## Choice Based Customer Support Chatbot
+This project addresses a common real-world challenge in customer support: inefficiencies caused by repetitive queries and prolonged response times. The choice-based chatbot provides users with a streamlined, menu-driven interface to access FAQs, track product service status, calculate service fees, or retrieve contact details efficiently. By automating routine interactions, the solution reduces the workload on support teams, enhances user satisfaction through faster service, and optimizes resource allocation for businesses, ensuring that complex issues receive the necessary attention.
